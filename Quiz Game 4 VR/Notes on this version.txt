@@ -1,0 +1,1 @@
+This version gets rid of the Json file and the questions are written directly inside the Data Controller's Inspector. Android doesn't seem to support Json file naturally, so this is a workaround.

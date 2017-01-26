@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz Game 4 VR.CSharp", "Quiz Game 4 VR.CSharp.csproj", "{45548678-A228-EBDA-3D06-60420B445DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz Game 4 VR.CSharp.Editor", "Quiz Game 4 VR.CSharp.Editor.csproj", "{CAFB7DB6-5CB6-0FDE-A602-778E747670D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45548678-A228-EBDA-3D06-60420B445DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45548678-A228-EBDA-3D06-60420B445DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45548678-A228-EBDA-3D06-60420B445DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45548678-A228-EBDA-3D06-60420B445DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFB7DB6-5CB6-0FDE-A602-778E747670D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFB7DB6-5CB6-0FDE-A602-778E747670D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFB7DB6-5CB6-0FDE-A602-778E747670D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFB7DB6-5CB6-0FDE-A602-778E747670D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
